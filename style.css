@@ -1,0 +1,229 @@
+.container {
+  width: 1440px;
+}
+.header-nav {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 175%;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #252b42;
+  margin-right: 104px;
+}
+.lione {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 175%;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #fa4a0c;
+  margin-right: 104px;
+}
+.nav-ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+li {
+  text-decoration: none;
+}
+.header-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+
+.hero {
+  background-image: url(Rectangle\ 48.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 1440px;
+  height: 619px;
+  padding: 80px;
+}
+.hero-app {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #f6f6f6;
+}
+.title {
+  font-weight: 700;
+  font-size: 58px;
+  line-height: 138%;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #fff;
+}
+.order-exchange {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 158%;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #f6f6f6;
+}
+.delivery-button {
+  border-radius: 30px;
+  padding: 16px 0px;
+  width: 236px;
+  height: 68px;
+  box-shadow: 0 10px 30px 0 rgba(183, 50, 39, 0.2);
+  background: #fa4a0c;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: 0em;
+  color: #fff;
+  border: none;
+  margin-right: 67px;
+}
+.menu-button {
+  border: 1px solid #fff;
+  background-color: rgba(0, 0, 0, 0);
+  border-radius: 30px;
+  padding: 16px 0px;
+  width: 236px;
+  height: 68px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: 0em;
+  color: #fff;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 54px;
+}
+.div-work {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 70px;
+}
+.work-title {
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 82%;
+  letter-spacing: 0em;
+  color: #000;
+  text-align: center;
+  margin-top: 56px;
+}
+.div-work-sec {
+  margin-top: 113px;
+}
+.work {
+  margin-bottom: 185px;
+}
+.create {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: 0em;
+  color: #fa4a0c;
+  margin-bottom: 7px;
+}
+.create-title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 142%;
+  letter-spacing: 0.01em;
+  color: #252b42;
+  padding: 10px 0px;
+  width: 561px;
+  height: 134px;
+}
+.create-description {
+  width: 100px;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 158%;
+  letter-spacing: 0.01em;
+  color: #737373;
+}
+.work-sec-div {
+  margin-top: 108px;
+  display: flex;
+  justify-content: space-between;
+}
+.img-size {
+  border-radius: 40px;
+  width: 250px;
+  height: 489px;
+}
+.order {
+  background-image: url(Rectangle\ 47.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 1440px;
+  height: 516px;
+  padding-top: 141px;
+}
+.order-title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 142%;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #fff;
+}
+.order-text {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 158%;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #fff;
+}
+.order-button-one {
+  border-radius: 10px;
+  padding: 18px 31px;
+  width: 142px;
+  height: 64px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 175%;
+  letter-spacing: 0.01em;
+  color: #fff;
+  background: #fa4a0c;
+  border: none;
+  margin-right: 16px;
+}
+.order-button-two{
+    border: 1px solid #fff;
+    border-radius: 10px;
+    padding: 16px 45px;
+    width: 173px;
+    height: 60px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 175%;
+    letter-spacing: 0.01em;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0);
+}
+.footer-wrap {
+  padding: 10px 30px;
+  width: 1210px;
+  height: 133px;
+  margin-bottom: 14px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.lol {
+  display: flex;
+}
+ul,
+a,
+ol {
+  text-decoration: none;
+  list-style: none;
+}
