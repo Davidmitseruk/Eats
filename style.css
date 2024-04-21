@@ -43,6 +43,7 @@ li {
   width: 1440px;
   height: 619px;
   padding: 80px;
+  margin: 0 auto;
 }
 .hero-app {
   font-weight: 700;
@@ -165,6 +166,7 @@ li {
   width: 1440px;
   height: 516px;
   padding-top: 141px;
+  margin: 0 auto;
 }
 .order-title {
   font-weight: 700;
